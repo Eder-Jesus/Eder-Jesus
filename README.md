@@ -10,15 +10,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eder-jesus-266031174/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:atomicplays@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/Edzxra" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-Brasil-8A2BE2?style=flat-square&logo=googlemaps&logoColor=white" alt="São Paulo, Brasil" />
+  <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-Brasil-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, Brasil" />
+</p>
+
+<!-- Ícones de Tecnologias Modernos (Skill Icons em Modo Escuro) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,python,java,spring,postgres,mongodb,git,docker&theme=dark" alt="Skill Icons" />
+  </a>
 </p>
 
 </div>
@@ -46,7 +53,7 @@ Atuo na intersecção entre o ecossistema de startups e o mundo corporativo:
       <p><i>Registro de Programa de Computador no INPI.</i></p>
       <ul>
         <li><b>Foco:</b> Modernização de secretarias municipais de educação e escolas públicas.</li>
-        <li><b>Funcionalidades:</b> Gestão de matrículas, fluxo unificado de alunos, indicadores educacionais, ouvidoria e integração com o Censo Escolar.</li>
+        <li><b>Funcionalidades:</b> Gestão de matrículas, diário de classe digital offline, fluxo unificado de alunos, indicadores educacionais, ouvidoria e integração com o Educacenso (INEP).</li>
         <li><b>Objetivo:</b> Eliminar a burocracia e aproximar gestores e cidadãos com tecnologia ágil e estável.</li>
       </ul>
       <p>
@@ -70,7 +77,7 @@ Atuo na intersecção entre o ecossistema de startups e o mundo corporativo:
   </tr>
 </table>
 
-> 💻 **Stack das Plataformas:** React, TypeScript, Vite, Framer Motion, GSAP ScrollTrigger, Canvas 3D interativo, arquitetura modular e microsserviços.
+> 💻 **Stack das Plataformas:** React 19, TypeScript, Vite, Framer Motion, GSAP ScrollTrigger, Tailwind CSS, Spring Boot e microsserviços.
 
 ---
 
@@ -106,6 +113,7 @@ Atuo na intersecção entre o ecossistema de startups e o mundo corporativo:
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -133,6 +141,18 @@ A mentalidade analítica e a disciplina de alto rendimento vêm também do cená
 * 🎯 **VALORANT**: **Peak Radiante** (Top tier máximo do servidor brasileiro / Top 500) e atualmente patente **Imortal**.
 * 🏆 **Fortnite**: Ex-jogador competitivo com histórico de premiações em dinheiro conquistadas (**earnings** em torneios oficiais).
 * 🎮 **League of Legends**: Explorando novas lanes e aprendendo as nuances do moba nas horas de lazer.
+
+---
+
+### 🐍 Jogo da Cobrinha (Snake Animation)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eder-Jesus/Eder-Jesus/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eder-Jesus/Eder-Jesus/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Eder-Jesus/Eder-Jesus/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
 
 ---
 
