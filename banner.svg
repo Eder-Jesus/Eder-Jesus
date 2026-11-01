@@ -28,21 +28,21 @@
     <text x="215" y="68" fill="#e0536c" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="400"> (Edzxra)</text>
 
     <text x="0" y="100" fill="#f0d5dd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="400">
-      Co-Founder @ <tspan font-weight="700" fill="#ffffff">i6 Systems (Gestor Educ &amp; AVAEE)</tspan>  â€¢  Data Engineer &amp; BI @ <tspan font-weight="700" fill="#ffffff">Grupo Elo</tspan>
+      Co-Founder @ <tspan font-weight="700" fill="#ffffff">i6 Systems (Gestor Educ &amp; AVAEE)</tspan>  |  Data Engineer &amp; BI @ <tspan font-weight="700" fill="#ffffff">Grupo Elo</tspan>
     </text>
 
     <g transform="translate(0, 122)">
-      <rect x="0" y="0" width="175" height="26" rx="6" fill="rgba(255,255,255,0.08)"/>
-      <text x="12" y="17" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">ðŸ›ï¸ Gestor Educ &amp; AVAEE</text>
+      <rect x="0" y="0" width="185" height="26" rx="6" fill="rgba(255,255,255,0.08)"/>
+      <text x="14" y="17" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Gestor Educ &amp; AVAEE</text>
 
-      <rect x="185" y="0" width="170" height="26" rx="6" fill="rgba(255,255,255,0.08)"/>
-      <text x="197" y="17" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">ðŸ“Š Medallion Architecture</text>
+      <rect x="195" y="0" width="170" height="26" rx="6" fill="rgba(255,255,255,0.08)"/>
+      <text x="207" y="17" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Medallion Architecture</text>
 
-      <rect x="365" y="0" width="165" height="26" rx="6" fill="rgba(255,255,255,0.08)"/>
-      <text x="377" y="17" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">âš¡ SQL Performance 120x</text>
+      <rect x="375" y="0" width="165" height="26" rx="6" fill="rgba(255,255,255,0.08)"/>
+      <text x="387" y="17" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">SQL Performance 120x</text>
 
-      <rect x="540" y="0" width="170" height="26" rx="6" fill="rgba(255,255,255,0.08)"/>
-      <text x="552" y="17" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">ðŸŽ¯ Peak Radiant â€¢ Imortal</text>
+      <rect x="550" y="0" width="175" height="26" rx="6" fill="rgba(255,255,255,0.08)"/>
+      <text x="562" y="17" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">Peak Radiant | Imortal</text>
     </g>
   </g>
 </svg>
