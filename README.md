@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Banner Nativo em SVG (Hospedado no repositório) -->
+<!-- Banner Nativo em SVG (Hospedado no próprio repositório - 100% estável) -->
 <img src="./banner.svg" width="100%" alt="Eder Jesus Header Banner" />
 
 <!-- Texto Animado Digitado (Typing SVG) -->
